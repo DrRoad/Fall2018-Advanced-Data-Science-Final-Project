@@ -1,4 +1,4 @@
-# Advanced Data Science Fall 2018 by Columbia University
+# Applied Data Science Fall 2018 by Columbia University
 
 This repository is the script for final project, "How to predict future price of a security", submitted to Advanced Data Science offered in Fall 2018 semester at Columbia University.
 
