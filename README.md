@@ -19,4 +19,7 @@ This is Yiqiao Yin, a graduate student in statistics at Columbia University.
 
 # Acknowledge
 
-I want to express the deepest gratitude to Professor Shaw-hwa Lo, Professor Tian Zheng, and Professor Ying Liu. I also want to thank the TA for this course Chengliang Tang.
+This project provide fair and robust analysis in predicting security prices. However, money management is more of art than science. We have not disclosed related strategy in game planning when it comes to risk management. Hence, this project does not serve as investment advise and nor are we responsible for any monetary losses from investment decisions by any audience. The risk of money management subject to your investment is solely your responsibility.
+
+We also want to thank Professor Ying Liu and Professor Tian Zheng for hosting lectures of Advanced Data Science this semester. It is with transcending gratitude that we announce here what an inspiration both professors have been throughout our experience of building this shiny app. Their knowledge, understanding and genuine “care” for others is illuminated in everything they do! We, Group 8, are in forever debt for their teachings. Moreoever, we also want to thank TA, Chengliang Tang. There is not enough we can say about how much we thank heaven that he is our teaching assistance. His patience and understanding are unsurpassed. We are grateful for being his students.
+
