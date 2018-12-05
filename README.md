@@ -25,6 +25,21 @@ We present a 97% error reduction on average on 30 stocks in Dow Jones 30 Compone
 ![image](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/figs/MMM-Influence.png)
 
 
+# Presentation 
+
+Yiqiao Yin is the designated presenter for this presentation. He will mainly be using [Presentation Slides](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/doc/Rubust%20Portfolio%20by%20Influence%20Measure%20-%20Presentation%20%5BYiqiao%20Yin%202018%5D.pdf) for the main material. For detailed reference, we invite our audience to read the paper on the [research site](https://yinscapital.com/research/). The paper is also uploaded to [zip folder](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/doc/Robust%20Portfolio%20by%20Influence%20Measure.zip) in Github folder **doc**.
+
+# Shiny App
+
+We also build a platform using Shiny App and this app should serve as supplement in addition to the paper and presentation. Due to slow speed from Shiny server when executing code to download data lively, we will present limited information from Shiny App. The app can be accessed [here](https://y-yin.shinyapps.io/CENTRAL-INTELLIGENCE-PLATFORM-BETA/).
+
+# R Notebook
+
+In additional to files above, we also provide a R notebook, [image](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/doc/main-notebook.Rmd). This R notebook calls **RData** saved in the **doc** folder. Then the script produces the graphs such as the following. The R Notebook is meant to work as one of the many supplements in support of the presentation materials just like R Shiny App above.
+
+![image](https://github.com/TZstatsADS/Fall2018-project5-sec1proj5-grp2/blob/master/figs/fig-dow-jones-30.PNG)
+
+
 # About Author
 
 This is Yiqiao Yin, a graduate student in statistics at Columbia University. 
